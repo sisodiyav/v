@@ -1,1 +1,0 @@
-﻿New-MailboxExportRequest -Mailbox x@xyz.com -IncludeFolders "#Contacts#" -excludedumpster -filepath \Temp\contacts\MS_Contacts.pst
